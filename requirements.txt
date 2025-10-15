@@ -1,0 +1,6 @@
+fastapi[all]
+sqlalchemy
+pymysql
+uvicorn
+fastmcp
+pydantic
